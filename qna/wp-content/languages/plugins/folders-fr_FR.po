@@ -1,0 +1,342 @@
+# Translation of Plugins - Folders &#8211; Organize Media Library Folders, Pages, Posts, Media Categories Folder, File Manager - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Folders &#8211; Organize Media Library Folders, Pages, Posts, Media Categories Folder, File Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-30 08:20:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Folders &#8211; Organize Media Library Folders, Pages, Posts, Media Categories Folder, File Manager - Stable (latest release)\n"
+
+#: includes/folders.class.php:513
+msgid "Unassigned"
+msgstr "Non attribué"
+
+#: includes/folders.class.php:325
+msgid "Move to Folder"
+msgstr "Déplacer vers un dossier"
+
+#: templates/admin/help.php:58
+msgid "There is some problem in sending request. Please send us mail on <a href='mailto:contact@premio.io'>contact@premio.io</a>"
+msgstr "Un problème est survenu lors de l’envoi de votre requête. Veuillez nous contacter sur <a href='mailto:contact@premio.io'>contact@premio.io</a>"
+
+#: templates/admin/help.php:55
+msgid "Your message is sent successfully."
+msgstr "Votre message a bien été envoyé."
+
+#: templates/admin/help.php:18 templates/admin/help.php:46
+msgid "Chat"
+msgstr "Chat"
+
+#: templates/admin/admin-content.php:136
+msgid "All "
+msgstr "Tous "
+
+#: templates/admin/folder-deactivate-form.php:331
+msgid "Cancel"
+msgstr "Annuler"
+
+#: templates/admin/folder-deactivate-form.php:319
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: templates/admin/folder-deactivate-form.php:317
+msgid "Your comment"
+msgstr "Votre commentaire"
+
+#: includes/folders.class.php:3085 includes/folders.class.php:3086
+msgid "Upgrade to Pro"
+msgstr "Passer à la version Pro"
+
+#: includes/folders.class.php:2467
+msgid "Add New Folder"
+msgstr "Ajouter un nouveau dossier"
+
+#: includes/folders.class.php:2466
+msgid "Update Folder"
+msgstr "Mettre à jour le dossier"
+
+#: includes/folders.class.php:2465
+msgid "Edit Folder"
+msgstr "Modifier le dossier"
+
+#: includes/folders.class.php:2463 includes/folders.class.php:2475
+msgid "Folder"
+msgstr "Dossier"
+
+#: includes/folders.class.php:2128
+msgid "Unable to rename folder"
+msgstr "Impossible de renommer le dossier"
+
+#: includes/plugin.updates.php:467
+msgid "Error"
+msgstr "Erreur"
+
+#: includes/form.class.php:40
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/form.class.php:37
+msgid "Rename"
+msgstr "Renommer"
+
+#: includes/form.class.php:26
+msgid "New Folder"
+msgstr "Nouveau dossier"
+
+#. Author URI of the plugin
+msgid "https://premio.io/downloads/folders/"
+msgstr "https://premio.io/downloads/folders/"
+
+#. Author of the plugin
+msgid "Premio"
+msgstr "Premio"
+
+#: includes/folders.class.php:1264
+msgid "%s is required"
+msgstr "%s est obligatoire"
+
+#: includes/folders.class.php:505
+msgid "Select a folder (Optional)"
+msgstr "Sélectionnez un dossier (facultatif)"
+
+#: includes/folders.class.php:167 includes/folders.class.php:170
+#: includes/folders.class.php:173 includes/folders.class.php:185
+#: includes/folders.class.php:228 includes/folders.class.php:231
+#: includes/folders.class.php:234 includes/folders.class.php:535
+#: includes/folders.class.php:538 includes/folders.class.php:541
+#: includes/folders.class.php:553 includes/folders.class.php:578
+#: includes/folders.class.php:581 includes/folders.class.php:584
+#: includes/folders.class.php:596 includes/folders.class.php:620
+#: includes/folders.class.php:623 includes/folders.class.php:626
+#: includes/folders.class.php:629 includes/folders.class.php:632
+#: includes/folders.class.php:1290 includes/folders.class.php:1297
+#: includes/folders.class.php:1362 includes/folders.class.php:1368
+#: includes/folders.class.php:1468 includes/folders.class.php:1471
+#: includes/folders.class.php:1483 includes/folders.class.php:1514
+#: includes/folders.class.php:1517 includes/folders.class.php:1520
+#: includes/folders.class.php:1532 includes/folders.class.php:1557
+#: includes/folders.class.php:1560 includes/folders.class.php:1563
+#: includes/folders.class.php:1566 includes/folders.class.php:1577
+#: includes/folders.class.php:1628 includes/folders.class.php:1631
+#: includes/folders.class.php:1634 includes/folders.class.php:1636
+#: includes/folders.class.php:1647 includes/folders.class.php:1694
+#: includes/folders.class.php:1696 includes/folders.class.php:1701
+#: includes/folders.class.php:1737 includes/folders.class.php:1739
+#: includes/folders.class.php:1744 includes/folders.class.php:1780
+#: includes/folders.class.php:1783 includes/folders.class.php:1785
+#: includes/folders.class.php:1790 includes/folders.class.php:1836
+#: includes/folders.class.php:1844 includes/folders.class.php:1876
+#: includes/folders.class.php:1879 includes/folders.class.php:1882
+#: includes/folders.class.php:1885 includes/folders.class.php:1890
+#: includes/folders.class.php:1919 includes/folders.class.php:1922
+#: includes/folders.class.php:1925 includes/folders.class.php:1930
+#: includes/folders.class.php:1963 includes/folders.class.php:1966
+#: includes/folders.class.php:1969 includes/folders.class.php:1974
+#: includes/folders.class.php:2022 includes/folders.class.php:2025
+#: includes/folders.class.php:2096 includes/folders.class.php:2174
+msgid "Your request is not valid"
+msgstr "Votre demande n’est pas valide"
+
+#: includes/folders.class.php:176 includes/folders.class.php:179
+#: includes/folders.class.php:237 includes/folders.class.php:240
+#: includes/folders.class.php:544 includes/folders.class.php:547
+#: includes/folders.class.php:587 includes/folders.class.php:590
+#: includes/folders.class.php:1474 includes/folders.class.php:1477
+#: includes/folders.class.php:1523 includes/folders.class.php:1526
+msgid "You have not permission to update width"
+msgstr "Vous n’avez pas la permission de mettre à jour avec"
+
+#: includes/folders.class.php:1212 includes/folders.class.php:2464
+msgid "All Folders"
+msgstr "Tous les dossiers"
+
+#: includes/folders.class.php:1213
+msgid "(Unassigned)"
+msgstr "(Non affecté)"
+
+#: includes/folders.class.php:1269
+msgid "Please enter your message"
+msgstr "Veuillez saisir votre message"
+
+#: includes/folders.class.php:1276 templates/admin/help.php:12
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/folders.class.php:1569 includes/folders.class.php:1572
+#: includes/folders.class.php:1639 includes/folders.class.php:1642
+#: includes/folders.class.php:1690 includes/folders.class.php:1733
+#: includes/folders.class.php:1833 includes/folders.class.php:1873
+#: includes/folders.class.php:2087
+msgid "You have not permission to update folder"
+msgstr "Vous n’avez pas la permission de mettre à jour le dossier"
+
+#: includes/folders.class.php:1839 includes/folders.class.php:2178
+#: includes/folders.class.php:2184
+msgid "Unable to create folder, Your request is not valid"
+msgstr "Impossible de créer un dossier, votre demande n’est pas valide."
+
+#: includes/folders.class.php:1960 includes/folders.class.php:2019
+msgid "You have not permission to remove folder"
+msgstr "Vous n’avez pas la permission de retirer le dossier"
+
+#: includes/folders.class.php:2028 includes/folders.class.php:2033
+msgid "Unable to delete folder, Your request is not valid"
+msgstr "Impossible de supprimer le dossier, votre demande n’est pas valide."
+
+#: includes/folders.class.php:2168
+msgid "You have not permission to add folder"
+msgstr "Vous n’avez pas la permission d’ajouter le dossier"
+
+#: includes/folders.class.php:2284
+msgid "Folder name already exists"
+msgstr "Le nom du dossier existe déjà"
+
+#: includes/folders.class.php:2468
+msgid "Add folder name"
+msgstr "Ajouter le nom du dossier"
+
+#: includes/folders.class.php:2471
+msgid "Parent Folder"
+msgstr "Dossier parent"
+
+#: includes/folders.class.php:2902
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/folders.class.php:2906 includes/form.class.php:74
+#: templates/admin/general-settings.php:231
+msgid "Upgrade"
+msgstr "Mettre à niveau"
+
+#: includes/folders.class.php:2992
+msgid "Move selected items"
+msgstr "Déplacer des éléments sélectionnés"
+
+#: includes/plugin.updates.php:467
+msgid "You do not have permission to install plugin updates"
+msgstr "Vous n’êtes pas autorisé à installer les mises à jour de l’extension"
+
+#: templates/admin/admin-content.php:139
+msgid "Unassigned "
+msgstr "Non attribué"
+
+#: templates/admin/folder-deactivate-form.php:308
+msgid "Quick feedback about Folders"
+msgstr "Retour d’expérience rapide sur Folders"
+
+#: templates/admin/folder-deactivate-form.php:311
+msgid "Your feedback will help us improve the product, please tell us why did you decide to deactivate Folders :)"
+msgstr "Vos commentaires nous aideront à améliorer le produit, merci de nous dire pourquoi avez-vous décidé de désactiver Folders :)"
+
+#: templates/admin/folder-deactivate-form.php:319
+msgid " to contact our support now"
+msgstr " pour contacter notre support maintenant"
+
+#: templates/admin/folder-deactivate-form.php:322
+msgid "Anonymous feedback"
+msgstr "Retours d’expérience anonyme"
+
+#: templates/admin/general-settings.php:133
+#: templates/admin/general-settings.php:162
+msgid "Default folder: "
+msgstr "Dossier par défaut : "
+
+#: templates/admin/help.php:10
+msgid "Hello! Are you experiencing any problems with Folders? Please let me know :)"
+msgstr "Bonjour ! Avez-vous des problèmes avec Folders ? Merci de me le faire savoir :)"
+
+#: templates/admin/help.php:33
+msgid "Sending Request..."
+msgstr "Envoi de la demande en cours..."
+
+#: templates/admin/help.php:52
+msgid "Done!"
+msgstr "Terminé !"
+
+#. Description of the plugin
+msgid "Arrange media, pages, custom post types and posts into folders"
+msgstr "Organiser les médias, les pages, les types de publications personnalisés et les articles dans des dossiers."
+
+#: includes/plugin.updates.php:226
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "Il y a une nouvelle version de %1$s. %2$sVoir les %3$s détails%4$s de la version."
+
+#: includes/folders.class.php:506
+msgid "First select the folder, and then upload the files"
+msgstr "Sélectionnez d’abord le dossier, puis téléversez les fichiers."
+
+#: includes/folders.class.php:2280
+msgid "Error during server request"
+msgstr "Erreur lors de la requête serveur"
+
+#: templates/admin/upgrade-to-pro.php:128
+msgid "30 days money back guaranteed"
+msgstr "Garantie de remboursement pendant 30 jours"
+
+#: includes/folders.class.php:2090 includes/folders.class.php:2099
+#: includes/folders.class.php:2104
+msgid "Unable to rename folder, Your request is not valid"
+msgstr "Impossible de renommer le dossier. Votre requête est invalide"
+
+#: includes/folders.class.php:2903 templates/admin/help.php:27
+msgid "Need help?"
+msgstr "Besoin d'aide ?"
+
+#: includes/folders.class.php:2470
+msgid "Search Folders"
+msgstr "Rechercher de dossiers"
+
+#: templates/admin/folder-deactivate-form.php:313
+msgid "Email address"
+msgstr "Adresse e-mail"
+
+#: templates/admin/folder-deactivate-form.php:319
+msgid "Having any problem with the Folders plugins?"
+msgstr "Vous avez un problème avec l’extension Folders ?"
+
+#: templates/admin/help.php:15
+msgid "How can I help you?"
+msgstr "Comment puis-je vous aider ?"
+
+#: includes/plugin.updates.php:234
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "Une nouvelle version de %1$s est disponible. %2$sVoir les %3$sdétails%4$s de la version ou %5$smettre à jour maintenant%6$s."
+
+#: includes/folders.class.php:3050 templates/admin/general-settings.php:93
+msgid "Folders Settings"
+msgstr "Réglages de Folders"
+
+#: templates/admin/general-settings.php:130
+#: templates/admin/general-settings.php:159
+msgid "Use folders with: "
+msgstr "Utiliser Folders avec : "
+
+#: includes/folders.class.php:2093 includes/folders.class.php:2171
+msgid "Folder name can no be empty"
+msgstr "Le nom du dossier ne peut pas être vide"
+
+#: templates/admin/general-settings.php:189
+msgid "Show Folders in Menu:"
+msgstr "Afficher Folders dans le menu :"
+
+#: includes/folders.class.php:1776
+msgid "You have not permission to update folder order"
+msgstr "Vous n’avez pas la permission de mettre à jour l’ordre des dossiers"
+
+#: includes/folders.class.php:516
+msgid "+ Create a New Folder"
+msgstr "+ Créer un nouveau dossier"
+
+#: templates/admin/upgrade-to-pro.php:131
+msgid "The plugin will always keep working even if you don't renew your license"
+msgstr "L’extension continuera à fonctionner même si vous ne renouvelez pas votre licence"
+
+#. Plugin Name of the plugin
+#: includes/folders.class.php:2462 includes/folders.class.php:2469
+#: includes/folders.class.php:3049 includes/form.class.php:15
+msgid "Folders"
+msgstr "Folders"

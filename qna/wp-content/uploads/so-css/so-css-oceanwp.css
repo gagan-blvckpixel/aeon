@@ -1,0 +1,112 @@
+.sub-h2{
+	font-family: Arial, sans serif;
+	font-size:18px;
+	padding: 0px;
+	color: #003e7d;
+	font-weight: normal;
+	font-style: italic;
+	}
+
+h5{
+	font-family: Arial, sans serif;
+	font-size:16px;
+	line-height:20px;
+	color: #a3c358;
+	font-weight: bold;
+	}
+
+h6{
+	font-family: Arial, sans serif;
+	font-weight: 700;
+	font-size:14px;
+	line-height:20px;
+	color: #42505d;
+	text-transform: uppercase;
+	}
+
+.box1 {
+  font-family: arial, sans serif;
+  font-style: normal;
+	color:#000;
+  margin: 15px 0 15px 0;
+  padding: 15px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #c6cfd7;
+	background-color: #EEEEEE;
+  border-radius: 3px;
+}
+
+.box2 {
+  font-family: arial, sans serif;
+	font-style: normal;
+	color: #003e7d;
+  margin: 0 0 30px 0;
+  padding: 10px;
+  border-width: 3px;
+  border-radius: 3px;
+  border-style: solid;
+  border-color: #f5f6f7;
+	background-color: #FFF;
+	font-weight: bold;
+}
+
+.box3 {
+  font-family: arial, sans serif;
+	font-style: normal;
+	color: #42505d;
+  margin: 0 0 30px 0;
+  padding: 10px;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 3px;
+  border-color: #F46b1b;
+	background-color: #fff;
+}
+
+.box4 {
+	padding: 15px;
+	text-align: left;
+	font-size:16px;
+	line-height:22px;
+	color: #F46b1b;
+	background-color: #f5f6f7;
+}
+
+
+.box5 {
+	padding: 15px;
+	margin: 20px 0 20px 0;
+	text-align: left;
+	border: solid 1px;
+	border-color: #42505d;
+	font-size:16px;
+	line-height:22px;
+	color: #000;
+	background-color: #c6cfd7;
+	display: inline-block;
+}
+
+div{
+	margin: 5px 0 5px 0;
+}
+
+.round-image {
+	border-radius: 50%;
+}
+
+/*ul {
+	list-style: disc;
+}
+li {
+		color: #003E7D;
+}*/
+
+/* PUCE DE li... :-) 
+li::before {
+	content: "\21e8"; 
+  display: inline-block;
+	color: red; 
+	width: 25px;
+}
+*/
